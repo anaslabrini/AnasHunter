@@ -1,6 +1,6 @@
 # AnasHunter 🛠
 
-![ART Logo](AH.png)
+![AH Logo](AH.png)
 
 **AnasHunter** is a multi-functional cybersecurity tool for web application penetration testing and vulnerability detection, designed for red team operations. It includes modules for brute force attacks and DDoS testing.
 Passionately developed using Python ❤ by [anasslabrini](https://github.com/anasslabrini).
